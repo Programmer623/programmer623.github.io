@@ -1,3 +1,15 @@
 #img{
     max-width:100px;
 }
+#main{
+    text-align: center;
+    margin-inline: 150px;
+    background-color:black;
+}
+p{
+    font-size: 20px;
+    font-family:monospace;
+}
+.white-text{
+    color:white;
+}
